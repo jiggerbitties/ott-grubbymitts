@@ -11,7 +11,7 @@ It reads the same files a normal video player would and never bypasses DRM,
 authentication, or geo controls. Use it only on streams you are authorised to
 access, and respect each site's terms of service.
 
-Hope this is useful team - SeanC
+Hope this is useful team - jiggerbitties
 
 ---
 
@@ -88,7 +88,7 @@ On the machine it was set up on, that folder is:
 
     ~/Documents/ott-fingerprint/
 
-(`~` is shorthand for your home folder, e.g. `/Users/sean`.) You can move the
+(`~` is shorthand for your home folder, e.g. `/Users/user`.) You can move the
 folder anywhere — Downloads, a project directory, a USB stick. Python doesn't
 care *where* it is; it only needs the **path you type to point at the file**.
 
