@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: ott-fingerprint
+abstract: >-
+  A command-line tool that fingerprints the supply chain behind an HLS or DASH
+  OTT stream from its public manifest and a small media sample: CDN and origin,
+  packager, codec and encoder, DRM, the ABR ladder, and ad-insertion /
+  low-latency signalling.
+type: software
+authors:
+  - name: jiggerbitties
+    website: "https://github.com/jiggerbitties"
+license: MIT
+version: "1.0.0"
+date-released: "2026-05-25"
+repository-code: "https://github.com/jiggerbitties/ott-fingerprint"
+url: "https://github.com/jiggerbitties/ott-fingerprint"
+keywords:
+  - hls
+  - dash
+  - ott
+  - streaming
+  - video
+  - ffmpeg
+  - drm
+  - fingerprinting
