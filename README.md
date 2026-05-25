@@ -1,4 +1,4 @@
-# OTT Stream Fingerprinter — Team Guide
+# OTT Stream Fingerprinter — Guide
 
 `ott-fingerprint.py` is a single-file command-line tool. You point it at the
 manifest URL of a streaming video (HLS `.m3u8` or DASH `.mpd`) and it reports
